@@ -44,4 +44,4 @@ def getSet() {
          }
      
 } 
-return this
+return set
