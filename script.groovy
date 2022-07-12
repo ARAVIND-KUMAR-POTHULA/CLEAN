@@ -10,7 +10,7 @@ def getSet() {
                 }
                 else if(day == 'Tue'){
                     println ("Tuesday")
-                    set = 'VI_02'
+                    set = 'AC_20'
                     println(set)
                 }
                 else if(day == 'Wed'){
